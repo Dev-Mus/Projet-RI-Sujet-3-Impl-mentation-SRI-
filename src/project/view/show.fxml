@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.materialdesignicons.MaterialDesignIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="showPane" prefHeight="670.0" prefWidth="950.0" stylesheets="@/css/style.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.controller.Show">
+   <top>
+      <VBox alignment="BOTTOM_LEFT" prefHeight="144.0" prefWidth="950.0" style="-fx-border-width: 0 0 1 0; -fx-border-color: #dddddd;" BorderPane.alignment="CENTER">
+         <children>
+             <VBox prefHeight="75.0" prefWidth="946.0">
+                 <JFXButton mnemonicParsing="false" text="">
+                     <graphic>
+                         <MaterialDesignIconView fill="#575757" glyphName="KEYBOARD_BACKSPACE" size="24" strokeType="OUTSIDE" strokeWidth="0.0" textOrigin="CENTER" />
+                     </graphic>
+                 </JFXButton>
+             </VBox>
+            <Label id="label_head" style="-fx-font-size: 15; -fx-border-width: 0;" text="Label" wrapText="true">
+               <VBox.margin>
+                  <Insets left="5.0" />
+               </VBox.margin></Label>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <padding>
+            <Insets bottom="20.0" />
+         </padding>
+      </VBox>
+   </top>
+   <center>
+      <BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" BorderPane.alignment="CENTER">
+         <top>
+            <TextArea id="label_content" prefHeight="458.0" prefWidth="935.0" text="The binding of acetaldehyde to the active site of ribonuclease: alterations in catalytic activity and effects of phosphate" wrapText="true">
+               <VBox.margin>
+                  <Insets left="20.0" top="20.0" />
+               </VBox.margin>
+               <font>
+                  <Font size="14.0" />
+               </font></TextArea>
+         </top>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <BorderPane.margin>
+            <Insets right="15.0" />
+         </BorderPane.margin>
+      </BorderPane>
+   </center>
+</BorderPane>

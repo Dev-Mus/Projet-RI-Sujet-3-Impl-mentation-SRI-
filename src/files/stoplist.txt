@@ -1,0 +1,644 @@
+-
+a
+a few
+a lot
+a's
+able
+about
+above
+according
+accordingly
+across
+actually
+after
+after all
+afterwards
+again
+against
+ain't
+all
+allow
+allows
+almost
+alone
+along
+already
+also
+although
+always
+am
+among
+amongst
+an
+and
+and others
+and so
+another
+any
+anybody
+anyhow
+anyone
+anything
+anyway
+anyways
+anywhere
+apart
+appear
+appreciate
+appropriate
+are
+aren't
+around
+as
+as well
+aside
+ask
+asking
+associated
+at
+at all
+at most
+at once
+available
+away
+awfully
+b
+be
+be given
+be on
+became
+because
+become
+becomes
+becoming
+been
+before
+beforehand
+behind
+being
+believe
+below
+beside
+besides
+best
+better
+between
+beyond
+blank
+both
+brief
+but
+by
+c
+c'mon
+c's
+came
+can
+can't
+cannot
+cant
+cause
+causes
+certain
+certainly
+changes
+clearly
+co
+com
+come
+come on
+come up
+comes
+concerning
+consequently
+consider
+considering
+contain
+containing
+contains
+corresponding
+could
+couldn't
+course
+currently
+d
+definitely
+described
+despite
+did
+didn't
+different
+discuss
+do
+do away with
+document
+documents
+does
+doesn't
+doing
+don't
+done
+down
+downwards
+due to
+during
+e
+each
+edu
+eg
+eight
+either
+else
+elsewhere
+end on
+enough
+entirely
+especially
+et
+et al
+et al.
+etc
+even
+ever
+every
+everybody
+everyone
+everything
+everywhere
+ex
+exactly
+example
+except
+f
+far
+few
+fifth
+find
+first
+five
+followed
+following
+follows
+for
+for sure
+former
+formerly
+forth
+four
+from
+further
+furthermore
+g
+get
+get to
+gets
+getting
+given
+gives
+go
+go down
+go for
+go to
+goes
+going
+gone
+got
+gotten
+greetings
+h
+had
+hadn't
+happens
+hardly
+has
+hasn't
+have
+haven't
+having
+he
+he's
+hello
+help
+hence
+her
+here
+here's
+hereafter
+hereby
+herein
+hereupon
+hers
+herself
+hi
+him
+himself
+his
+hither
+hopefully
+how
+howbeit
+however
+i
+i'd
+i'll
+i'm
+i've
+ie
+if
+if not
+ignored
+ii
+immediate
+in
+in order
+in that
+in this
+inasmuch
+inc
+indeed
+indicate
+indicated
+indicates
+inner
+insofar
+instead
+into
+inward
+is
+isn't
+it
+it'd
+it'll
+it's
+its
+itself
+j
+just
+k
+keep
+keeps
+kept
+know
+known
+known as
+knows
+l
+last
+lately
+late
+later
+latter
+latterly
+least
+less
+lest
+let
+let's
+like
+liked
+likely
+little
+look
+looking
+looks
+ltd
+m
+mainly
+make it
+many
+many more
+may
+maybe
+me
+mean
+meanwhile
+merely
+might
+more
+moreover
+more than
+most
+mostly
+much
+much as
+must
+my
+myself
+n
+name
+namely
+nd
+near
+nearly
+necessary
+need
+needs
+neither
+never
+nevertheless
+next
+nine
+no
+nobody
+non
+none
+noone
+nor
+normally
+not
+not only
+nothing
+novel
+now
+nowhere
+o
+obviously
+of
+of course
+off
+often
+oh
+ok
+okay
+old
+on
+on it
+on that
+on the one hand
+on the other hand
+once
+one
+one time
+ones
+only
+only if
+only too
+only when
+onto
+or
+or else
+or so
+other
+others
+otherwise
+ought
+our
+ours
+ourselves
+out
+outside
+over
+over again
+over here
+overall
+own
+p
+particular
+particularly
+per
+perhaps
+placed
+please
+plus
+possible
+presumably
+probably
+provides
+q
+que
+quite
+quite a
+quite an
+qv
+r
+rather
+rd
+re
+really
+reasonably
+regarding
+regardless
+regards
+relatively
+relevant
+relevants
+respectively
+right
+s
+said
+same
+saw
+say
+saying
+says
+second
+secondly
+see
+see also
+seeing
+seem
+seemed
+seeming
+seems
+seen
+self
+selves
+sensible
+sent
+serious
+seriously
+seven
+several
+shall
+she
+should
+shouldn't
+since
+six
+so
+so far
+some
+somebody
+somehow
+someone
+something
+sometime
+sometimes
+somewhat
+somewhere
+soon
+sorry
+sort of
+specified
+specify
+specifying
+still
+sub
+such
+such as
+sup
+sure
+t
+t's
+take
+taken
+talk about
+tell
+tends
+th
+than
+thank
+thanks
+thanx
+that
+that's
+that is
+thats
+the
+their
+theirs
+them
+themselves
+then
+thence
+there
+there's
+thereafter
+thereby
+therefore
+therein
+theres
+thereupon
+these
+they
+they'd
+they'll
+they're
+they've
+think
+third
+this
+thorough
+thoroughly
+those
+though
+three
+through
+throughout
+thru
+thus
+to
+to each one
+to it
+to order
+to that
+together
+too
+too much
+took
+toward
+towards
+tried
+tries
+truly
+try
+trying
+twice
+two
+u
+un
+under
+unfortunately
+unless
+unlike
+unlikely
+until
+until now
+unto
+up
+up to
+upon
+us
+use
+used
+used to
+useful
+uses
+using
+usually
+uucp
+v
+value
+various
+very
+via
+viz
+vs
+w
+want
+wants
+was
+wasn't
+way
+we
+we'd
+we'll
+we're
+we've
+welcome
+well
+went
+were
+weren't
+what
+what's
+whatever
+when
+whence
+whenever
+where
+where's
+whereafter
+whereas
+whereby
+wherein
+whereupon
+wherever
+whether
+which
+while
+whither
+who
+who's
+whoever
+whole
+whom
+whose
+why
+will
+willing
+wish
+with
+within
+without
+won't
+wonder
+would
+would
+wouldn't
+x
+y
+yes
+yet
+you
+you'd
+you'll
+you're
+you've
+you said it
+your
+yours
+yourself
+yourselves
+z
+zero
