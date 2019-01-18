@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mongo4idea">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/mongo4idea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mongodb-driver-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mongodb-driver-core-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/bson-3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
